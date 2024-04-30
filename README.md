@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="style.css"/>   
 </head>
 <body style="font-family:san-serif">
-<header style="background-color:black; color:white; padding: 10px;">
+<header style="background-color:black; color:white; padding: 15px;">
 <a href="https://ketsero.github.io/LetsMine.ukraine/">Переклад Українською</a>
 <a href="https://ketsero.github.io/LetsMine.english/">English translation</a>
 </header>
